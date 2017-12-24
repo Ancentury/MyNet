@@ -1,0 +1,10 @@
+D:\Documents\GitHub\VS_Code\MyNet\bin\HPD\Debug\netcoreapp2.0\MyNet.deps.json
+D:\Documents\GitHub\VS_Code\MyNet\bin\HPD\Debug\netcoreapp2.0\MyNet.runtimeconfig.json
+D:\Documents\GitHub\VS_Code\MyNet\bin\HPD\Debug\netcoreapp2.0\MyNet.runtimeconfig.dev.json
+D:\Documents\GitHub\VS_Code\MyNet\bin\HPD\Debug\netcoreapp2.0\MyNet.dll
+D:\Documents\GitHub\VS_Code\MyNet\bin\HPD\Debug\netcoreapp2.0\MyNet.pdb
+D:\Documents\GitHub\VS_Code\MyNet\obj\HPD\Debug\netcoreapp2.0\MyNet.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VS_Code\MyNet\obj\HPD\Debug\netcoreapp2.0\MyNet.AssemblyInfoInputs.cache
+D:\Documents\GitHub\VS_Code\MyNet\obj\HPD\Debug\netcoreapp2.0\MyNet.AssemblyInfo.cs
+D:\Documents\GitHub\VS_Code\MyNet\obj\HPD\Debug\netcoreapp2.0\MyNet.dll
+D:\Documents\GitHub\VS_Code\MyNet\obj\HPD\Debug\netcoreapp2.0\MyNet.pdb
